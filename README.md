@@ -41,7 +41,7 @@ DATABASES = {
 
 _Menciona a todos aquellos que ayudaron a levantar el proyecto desde sus inicios_
 
-* **Lucas Ibañez** - *Developer* - [lucasibaniez]
+* 
 * **Abel Gonzalez** - *Student*
 
 ---
